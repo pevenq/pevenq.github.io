@@ -3,12 +3,12 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Yi Feng Lin
-    tagline: I am Learning to be a program manager.
+    tagline: Learning to be a program manager.
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -32,13 +32,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Cycling
           link:
 
-        - item: Snowboarding
-          link:
+        - item: Filming
+          link: www.youtube.com/channel/UCbH7SHpE738q7HtSxy4k4mQ
 
-        - item: Cooking
+        - item: 
           link:
 
 career-profile:
@@ -53,9 +53,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Master in Management of Information System
+        university: National Taipei University
+        time: 2023 - 2025
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -64,9 +64,9 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+      - degree: Bachelor in Advertising
+        university: Chinese Culture University
+        time: 2018 - 2022
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
