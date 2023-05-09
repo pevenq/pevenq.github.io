@@ -15,10 +15,10 @@ sidebar:
     email: jinglewind@gmail.com
     phone: 0978-902-970
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: Yi Feng Lin
     github: pevenq
-    twitter: '@webjeda'
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    twitter: '@pevenq'
+    pdf: 
 
     languages:
       title: Languages
@@ -27,16 +27,16 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: Fluent
 
     interests:
       title: Interests
       info:
         - item: Cycling
-          link:
+          link: https://www.strava.com/athletes/11768613
 
         - item: Filming
-          link: www.youtube.com/channel/UCbH7SHpE738q7HtSxy4k4mQ
+          link: https://www.youtube.com/@pevenq
 
         - item: 
           link:
@@ -57,42 +57,28 @@ education:
         university: National Taipei University
         time: 2023 - 2025
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
+          D
             - Bullet point
             - Bullet point
       - degree: Bachelor in Advertising
         university: Chinese Culture University
         time: 2018 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Led a team of four people to curate the exhibition for graduation. Increased by 60% in visitors and decreased by 32% in cost compared with the result of the previous year.
+            - Merit Award winner of start-up contest
+            - Bronze Medal Award winner of Taiwan advertising contest
+            - Planned and Conducted a large poll, analyzed data and found insights which earned near 10 pieces of news exposure
+            - The host of school award ceremony and graduation exhibition            
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: MarTech Researcher
+        time: 2022 - 2023
+        company: Asia-Pacific MarTech Transformation Alliance Association
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          D
+            - Compiled and wrote reports on global marketing technology, digital transformation and other related reports, and has accumulated 10+ articles and videos with a total of 2,000+ hits.
+            - Designed the user interface and experience of the Association's official content website to improve the browsing process.
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
@@ -142,65 +128,44 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Academic research:
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Exploring the Boundary between Freemium and Premium Apps by Expectation Confirmation Model and Two- Factor Theory.
+        link: "https://drive.google.com/file/d/1FeBpZ0f_pUs-8ISMnHxpH5VUntiHRCI6/view?usp=share_link"
+        authors: S. C. Chang, Y. F. Lin. (2022).
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: The strategy and effect of Meme apply to the marketing and political field
+        link: "https://drive.google.com/file/d/1FTjVcBDvFkaNm5YULJJFhDd1KfRmzuPN/view?usp=share_link"
+        authors: Y. F. Lin, S. C. Chang, T. H. Niu. (2022).
+        conference: ""
 
-      - title: A syntax directed compiler for Algol 60
+      - title: 
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: 
+        conference: ""
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Premiere pro / Final cut pro
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Canva
+        level: 80%
 
-      - name: Angular
-        level: 98%
+      - name: 
+        level: 
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: 
+        level: 
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: 
+        level: 
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name:
+        level: 
