@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: jinglewind@gmail.com
     phone: 0978-902-970
-    website: blog.webjeda.com #do not add http://
+    website: www.facebook.com/profile.php?id=100001646135331 #do not add http://
     linkedin: Yi Feng Lin
     github: pevenq
     twitter: '@pevenq'
@@ -44,12 +44,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      This section is still building...
 education:
     title: Education
     info:
@@ -57,9 +52,7 @@ education:
         university: National Taipei University
         time: 2023 - 2025
         details: |
-          D
-            - Bullet point
-            - Bullet point
+         
       - degree: Bachelor in Advertising
         university: Chinese Culture University
         time: 2018 - 2022
@@ -76,31 +69,14 @@ experiences:
         time: 2022 - 2023
         company: Asia-Pacific MarTech Transformation Alliance Association
         details: |
-          D
             - Compiled and wrote reports on global marketing technology, digital transformation and other related reports, and has accumulated 10+ articles and videos with a total of 2,000+ hits.
             - Designed the user interface and experience of the Association's official content website to improve the browsing process.
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: Product Specialist
+        time: 2018 - 2022 (part-time)
+        company: Canon Marketing Taiwan
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            Responsible for solving customers' problems with camera products in various seminars and activities to increase customer satisfaction and loyalty.
+          
 projects:
     title: Projects
     intro: >
@@ -112,22 +88,6 @@ projects:
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications
     intro: |
@@ -136,23 +96,29 @@ publications:
       - title: Exploring the Boundary between Freemium and Premium Apps by Expectation Confirmation Model and Two- Factor Theory.
         link: "https://drive.google.com/file/d/1FeBpZ0f_pUs-8ISMnHxpH5VUntiHRCI6/view?usp=share_link"
         authors: S. C. Chang, Y. F. Lin. (2022).
-        conference: 
+        conference: ""
 
       - title: The strategy and effect of Meme apply to the marketing and political field
         link: "https://drive.google.com/file/d/1FTjVcBDvFkaNm5YULJJFhDd1KfRmzuPN/view?usp=share_link"
         authors: Y. F. Lin, S. C. Chang, T. H. Niu. (2022).
-        conference: ""
+        conference: "Journal of Chinese Advertising"
 
-      - title: 
-        link: "#"
-        authors: 
-        conference: ""
+      - title: A Comparative Analysis of the major country of Television regulations about sponsoring and product placement
+        link: "https://drive.google.com/file/d/1FTjVcBDvFkaNm5YULJJFhDd1KfRmzuPN/view?usp=share_link"
+        authors: T. H. Niu. , Y. F. Lin. (2022).
+        conference: "Conference paper"
+
+      - title: Examine purchase intention for hedonic and utilitarian freemium application
+        link: "https://drive.google.com/file/d/1dQsv7nKIbFTbDs-QOeAxsxuA4WC2fr71/view?usp=share_link"
+        authors: Y. F. Lin. (2022).
+        conference: "Bachelor Thesis"
+
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Premiere pro / Final cut pro
+      - name: Premiere pro/Final cut pro
         level: 90%
 
       - name: Canva
@@ -165,7 +131,4 @@ skills:
         level: 
 
       - name: 
-        level: 
-
-      - name:
         level: 
